@@ -209,3 +209,9 @@ __marimo__/
 .dlt
 
 setup_user.sql
+
+# DBT
+
+target/
+dbt_packages/
+logs/
