@@ -125,8 +125,6 @@ python-dotenv==1.1.1
 python-slugify==8.0.4
 pytimeparse==1.1.8
 pytz==2025.2
-pywin32==311
-pywin32-ctypes==0.2.3
 pyyaml==6.0.2
 pyzmq==27.0.2
 referencing==0.36.2
@@ -176,6 +174,5 @@ watchdog==6.0.0
 watchfiles==1.1.0
 wcwidth==0.2.13
 websockets==15.0.1
-win-precise-time==1.4.2
 yarl==1.20.1
 zipp==3.23.0
